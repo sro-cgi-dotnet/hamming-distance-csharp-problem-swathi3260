@@ -16,6 +16,13 @@ The intent is to use the following:
 Put down all your code in `Hamming/Hamming.cs`
 
 ```
+# Add remote to the starter code
+git remote add starter https://github.com/sro-boeing-wave-2/hamming-distance-csharp-problem
+
+# To install and restore packages
+dotnet restore
+
+# To run and evaluate tests
 dotnet test Hamming.Tests
 ```
 
