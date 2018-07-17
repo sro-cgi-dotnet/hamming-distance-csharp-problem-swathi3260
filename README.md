@@ -13,6 +13,8 @@ The intent is to use the following:
 
 ## Instructions to Evaluate
 
+Put down all your code in `Hamming/Hamming.cs`
+
 ```
 dotnet test Hamming.Tests
 ```
